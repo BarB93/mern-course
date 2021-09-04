@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://jony:ZgrJk5buAZrzKdvlZTbR@cluster0.l9tt3.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSing": "barovskiy wise advice",
+  "baseUrl": "http://localhost:5000"
+}

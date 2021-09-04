@@ -1,0 +1,21 @@
+.btnLogin {
+    margin-right: 10px;
+}
+
+.yellowInput {
+    border-bottom: 1px solid #fff!important;
+    box-shadow: 0 1px 0 0 #fff!important;
+}
+
+.yellowInput + label {
+    color: #fff!important;
+}
+
+.yellowInput:focus + label {
+    color: #ffeb3b!important;
+}
+
+.yellowInput:focus {
+    border-bottom: 1px solid #ffeb3b!important;
+    box-shadow: 0 1px 0 0 #ffeb3b!important;
+}
